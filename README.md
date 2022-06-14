@@ -1,2 +1,2 @@
-# Contador-
+# Contador
 Primeiro Projeto em JavaScript DIO
