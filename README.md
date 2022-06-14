@@ -10,6 +10,7 @@ Stebsnusch Obrigado pelas aulas!! 😆
 
 # Links
 [DIO](https://www.dio.me/)
-[Stebsnusch](
+
+[Stebsnusch](https://github.com/stebsnusch)
 
 
